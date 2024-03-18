@@ -4,10 +4,16 @@ import viteLogo from '/vite.svg'
 import getSearchResults from './logic/spotifyUpdate'
 import './App.css'
 import Button from './assets/components/Button'
+import TextInput from './assets/components/TextInput'
+import List from './assets/components/List'
+import Profile from './assets/components/Profile'
+
+
 
 function App() {
   const [count, setCount] = useState(0)
 
+ 
   
 
   return (
@@ -20,19 +26,17 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
+
       <h1>Prueba de React</h1>
+
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+        <Profile href='https://github.com/Leonides2' src='https://avatars.githubusercontent.com/u/114005429?v=4' alt='Leonides2 avatar' ></Profile>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-      <Button text="Presioname" onClick={() => getSearchResults('Rels B')}></Button>
+      <div>
+        <TextInput placeholder="Ingrese una busqueda" id='q'></TextInput>
+        <Button text="Presioname" onClick={() => getSearchResults('Rels B')}></Button>
+        <List object={{name: "hola"}} params={[]}></List>
+      </div>
     </>
   )
 }
