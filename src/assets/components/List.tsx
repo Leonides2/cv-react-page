@@ -7,14 +7,14 @@ params= []
         <div className="table-wrapper">
         <table className="fl-table">
             <tr>
-                <th> Nombre </th>
+                <th> Name </th>
                 <th> URL </th>
                 <th> Artist </th>
             </tr>
             <tr>
-                <td> La camisa negra </td>
-                <td> Juanes.com </td>
-                <td> Juanes </td>
+                <td> some name </td>
+                <td> something </td>
+                <td> some artist </td>
             </tr>
 
         </table>
