@@ -1,8 +1,8 @@
 import '../css/List.css'
 
-const List = ({object, params}:{object: {}, params: string[] }) => {
-object= {name: "soy un objeto"}
-params= []
+const List = ({}:{}) => {
+
+
     return(
         <div className="table-wrapper">
         <table className="fl-table">

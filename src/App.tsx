@@ -1,7 +1,4 @@
-import { useState } from 'react'
-import reactLogo from '/react.svg'
-import viteLogo from '/vite.svg'
-import getSearchResults from './logic/spotifyUpdate'
+
 import './App.css'
 import Button from './assets/components/Button'
 import TextInput from './assets/components/TextInput'
@@ -11,10 +8,7 @@ import Profile from './assets/components/Profile'
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
- 
-  
 
   return (
     <>
@@ -27,7 +21,7 @@ function App() {
       <div>
         <TextInput placeholder="Ingrese una busqueda" id='q'></TextInput>
         <Button text="Presioname" onClick={() => alert("Me presionaste")}></Button>
-        <List object={{name: "hola"}} params={[]}></List>
+        <List></List>
       </div>
 
 
