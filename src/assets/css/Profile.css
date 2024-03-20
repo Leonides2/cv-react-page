@@ -37,19 +37,6 @@
     display: flex;
   }
   
-  .fir-imageover-color {
-    height: 80px;
-    width: 80px;
-    position: absolute;
-    background: var(--fir-blue-twitter-alpha);
-    background-image: none;
-    border-radius: 100px;
-    cursor: pointer;
-    transition: background .3s ease-in-out;
-    animation: fadeInFadeOut 2s infinite;
-    top: 0;
-    left: 0;
-  }
   
   @keyframes fadeInFadeOut {
     0%   { opacity:1; }

@@ -4,25 +4,27 @@ import Button from './assets/components/Button'
 import TextInput from './assets/components/TextInput'
 import List from './assets/components/List'
 import Profile from './assets/components/Profile'
+import { SpotifyProvider } from './Provider/SpotifyProvider'
 
 
 
 function App() {
 
+  var spotifyData = {};
+
+
 
   return (
     <>
-      <div>
-      </div>
-
       <h1>Prueba de React</h1>
 
     
-      <div>
+      <SpotifyProvider>
         <TextInput placeholder="Ingrese una busqueda" id='q'></TextInput>
-        <Button text="Presioname" onClick={() => alert("Me presionaste")}></Button>
-        <List></List>
-      </div>
+        <Button text="Presioname" onClick={()=> alert('Me presionaste')}></Button>
+        <h1></h1>
+        <List object={spotifyData}></List>
+      </SpotifyProvider>
 
 
       <div className="card">
