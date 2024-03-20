@@ -6,17 +6,17 @@ type SpotifyContextData = {
     type: string, 
     setType: (type : string) => void,
     limit: string, 
-    setLimit: (type : string) => void,
+    setLimit: (limit : string) => void,
     offset: string, 
-    setOffset: (type : string) => void,
+    setOffset: (offset : string) => void,
     topResults: string,
-    setTopResults: (type : string) => void
+    setTopResults: (topResults : string) => void
 }
 
 
 const SpotifyContext = React.createContext<SpotifyContextData>({
     q: '',
-    setQuery: () =>{},
+    setQuery: () => {},
     type: '',
     setType: () => {},
     limit: '',

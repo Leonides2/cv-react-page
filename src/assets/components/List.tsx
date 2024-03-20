@@ -1,30 +1,25 @@
-import { useContext } from 'react'
+import SpotifyResponse from '../../logic/Props/SporifyResponse'
 import '../css/List.css'
-import SpotifyContext from '../../Provider/SpotifyContext'
 
-const List = ({object}:{object: {}}) => {
+const List = ({object}:{object: SpotifyResponse}) => {
 
-    const query = useContext(SpotifyContext)
 
     return(
-        <>
-        <h2>{query.q}</h2>
         <div className="table-wrapper">
         <table className="fl-table">
-            <thead>
+            <tr>
                 <th> Name </th>
                 <th> URL </th>
                 <th> Artist </th>
-            </thead>
-            <tbody>
+            </tr>
+            <tr>
                 <td> some name </td>
                 <td> something </td>
                 <td> some artist </td>
-            </tbody>
-               
+            </tr>
+
         </table>
         </div>
-        </>
     )
 }
 

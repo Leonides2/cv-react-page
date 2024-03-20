@@ -8,7 +8,7 @@ type GetSearchResponse = {
     data: Search[];
   };
   
-  async function getSearchResults(q:string, type = 'multi', limit = '10', offset = '0', topResults = '5'){
+  async function getSearchResults<SpotifyResponse>(q:string, type = 'multi', limit = '10', offset = '0', topResults = '5'){
     try{
       const options = {
       params: {
