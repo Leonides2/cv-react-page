@@ -1,33 +1,10 @@
+import AlbumItems from "./AlbumItems"
+
 type SpotifyResponse = {
-albums: {
-      totalCount: number,
-      items: {
-          data: {
-            uri: string,
-            name: string,
-            artists: {
-              items:[ 
-                {
-                  uri: string,
-                  profile: {
-                    name: string
-                  }
-                }]
-            }
-        },
-            coverArt: {
-              sources: 
-                {
-                    url: string,
-                    width: number|null,
-                    height: number|null
-                }
-            },
-            date: {
-              year: number
-            }
-          }
-        },
+"albums": {
+      "totalCount": number,
+      "items": AlbumItems[]
+      } | null,
     artists: {
       totalCount: number,
       items:[
@@ -49,7 +26,7 @@ albums: {
             }
           }
         }]
-    },
+    } | null,
     episodes: {
       totalCount: number,
       items: [
@@ -89,7 +66,7 @@ albums: {
             }
           }
         }]
-    },
+    } | null,
     genres: {
       totalCount: number,
       items: [
@@ -109,7 +86,7 @@ albums: {
           }
         }
       ]
-    },
+    } |null,
     playlists: {
       totalCount: number,
       items: [
@@ -136,7 +113,7 @@ albums: {
             }
           }
         }]
-    },
+    } | null,
     podcasts: {
       totalCount: number,
       items: [
@@ -160,7 +137,7 @@ albums: {
             mediaType: string
           }
         }]
-    },
+    } | null,
     topResults: {
       items: [
         {
@@ -181,7 +158,8 @@ albums: {
               }
             }
           }
-        }]},
+        }
+      ],
       featured: [
         {
           data: {
@@ -205,7 +183,8 @@ albums: {
               name: string
             }
           }
-        }],
+        }]
+      } | null,
     tracks: {
       totalCount: number,
       items: [
@@ -253,7 +232,7 @@ albums: {
           }
         }
       ]
-    },
+    } | null,
     users: {
       totalCount: number,
       items: [
@@ -270,7 +249,7 @@ albums: {
           }
         }
       ]
-    }
+    } | null
 }
 
 export default SpotifyResponse

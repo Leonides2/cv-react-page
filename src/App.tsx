@@ -1,22 +1,13 @@
 
 import './App.css'
-import Button from './assets/components/Button'
-import TextInput from './assets/components/TextInput'
-import List from './assets/components/List'
+
 import Profile from './assets/components/Profile'
 import { SpotifyProvider } from './Provider/SpotifyProvider'
-import SpotifyResponse from './logic/Props/SporifyResponse'
-import getSearchResults from './logic/spotifyUpdate'
+import SpotifyComponent from './assets/components/SpotifyComponent'
 
 
 
 function App() {
-
-  let spotifyData: SpotifyResponse;
-  function buttonAction(){
-  }
-
-
 
   return (
     <>
@@ -24,10 +15,7 @@ function App() {
 
     
       <SpotifyProvider>
-        <TextInput placeholder="Ingrese una busqueda"></TextInput>
-        <Button text="Presioname" onClick={buttonAction}></Button>
-        <h1></h1>
-        <List object={spotifyData}></List>
+        <SpotifyComponent placeholder="Ingrese una busqueda" buttonText='Buscar'></SpotifyComponent>
       </SpotifyProvider>
 
 

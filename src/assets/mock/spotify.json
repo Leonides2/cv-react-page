@@ -1,2748 +1,2778 @@
 {
-    "albums": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
-            "name": "Rocky IV",
-            "artists": {
-              "items": [{
-                  "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
-                  "profile": {
-                    "name": "Various Artists"
-                  }
+  "albums": {
+    "totalCount": 990,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:album:0OLxztpxYJ9BAOPzGkD0Wf",
+          "name": "Casual",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+                "profile": {
+                  "name": "Chappell Roan"
                 }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02f4a2ccbe20d6d52f16816812",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 1985
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:5XpEKORZ4y6OrCZSKsi46A",
-            "name": "Norman Fucking Rockwell!",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-                  "profile": {
-                    "name": "Lana Del Rey"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02879e9318cb9f4e05ee552ac9",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851879e9318cb9f4e05ee552ac9",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2019
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:6Wi0eIgEMemIdqHhBfe1ti",
-            "name": "Rock",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:4ovtyvs7j1jSmwhkBGHqSr",
-                  "profile": {
-                    "name": "Olamide"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02840fe118b9dec83f68f4d468",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851840fe118b9dec83f68f4d468",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273840fe118b9dec83f68f4d468",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2021
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:1US66auJ538TiXGeUf24yL",
-            "name": "Rockstar",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:5deLgmgAEgy8UHOfJ9Dj8w",
-                  "profile": {
-                    "name": "Ilkay Sencan"
-                  }
-                },
-                {
-                  "uri": "spotify:artist:3v6Ji4uoWtKRkhuDUaxi9n",
-                  "profile": {
-                    "name": "Dynoro"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02a1d56525c3380e5cbda5f48f",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851a1d56525c3380e5cbda5f48f",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273a1d56525c3380e5cbda5f48f",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2019
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:3MATDdrpHmQCmuOcozZjDa",
-            "name": "TESTING",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca",
-                  "profile": {
-                    "name": "A$AP Rocky"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e029feadc48ab0661e9b3a9170b",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d000048519feadc48ab0661e9b3a9170b",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2018
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:5ZNIZY6Dg9sC04xsJEBx0o",
-            "name": "Rock",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
-                  "profile": {
-                    "name": "Various Artists"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e029e84c4ff5034ce599ed2e1cc",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d000048519e84c4ff5034ce599ed2e1cc",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b2739e84c4ff5034ce599ed2e1cc",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2018
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:3buy6DvCMUseqKyEC4RI4g",
-            "name": "Rock Believer (Deluxe)",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:27T030eWyCQRmDyuvr1kxY",
-                  "profile": {
-                    "name": "Scorpions"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02eeacad9436d5ba5052d46c43",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851eeacad9436d5ba5052d46c43",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273eeacad9436d5ba5052d46c43",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2022
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:2wq6cnNKGy6tP5c5ow5Uo8",
-            "name": "POCKET ROCKET",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:46HzS7yz0c9udVwtbHk1sx",
-                  "profile": {
-                    "name": "Cochise"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02efe0cfba604f12fddb637588",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851efe0cfba604f12fddb637588",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273efe0cfba604f12fddb637588",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2021
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:2Bh34W8x50I7Qp4eoyknyr",
-            "name": "Rock",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:4cZvsAtZm91PBC0tXlDrP0",
-                  "profile": {
-                    "name": "Dirty Palm"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e0235e70dc4e6a0478f98afa7b4",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000485135e70dc4e6a0478f98afa7b4",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b27335e70dc4e6a0478f98afa7b4",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2020
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:3meZFplbMmji648oWUNEfQ",
-            "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM",
-                  "profile": {
-                    "name": "Clean Bandit"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e021431c3bdf16aa99f71799d95",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d000048511431c3bdf16aa99f71799d95",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b2731431c3bdf16aa99f71799d95",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 2016
-            }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e0264d902c3c35e0d045572977e",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000485164d902c3c35e0d045572977e",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b27364d902c3c35e0d045572977e",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
           }
         }
-      ]
-    },
-    "artists": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:artist:3xs0LEzcPXtgNfMNcHzLIP",
-            "profile": {
-              "name": "Rockwell"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b27357de8cb9bbbe22a9e71c8af7",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000485157de8cb9bbbe22a9e71c8af7",
-                    "width": 64,
-                    "height": 64
-                  }
-                ]
+      },
+      {
+        "data": {
+          "uri": "spotify:album:21jVVuqkda4oXVcS39oiOK",
+          "name": "Aquí Casual",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4UqfXEVibVEPfoopm7Pduc",
+                "profile": {
+                  "name": "Los 2 de la S"
+                }
               }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:13ubrt8QOOCPljQ2FL1Kca",
-            "profile": {
-              "name": "A$AP Rocky"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb6d5529e3962a16bd267bfeb2",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f1786d5529e3962a16bd267bfeb2",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02124c9202e864276d405cfd5b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851124c9202e864276d405cfd5b",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273124c9202e864276d405cfd5b",
+                "width": 640,
+                "height": 640
               }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:5Dnxo3wz80YtuqxSvvT7RG",
-            "profile": {
-              "name": "RockA"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb7b46496da72b59cc33e611cf",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f1787b46496da72b59cc33e611cf",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:1T8S48bD91THNKBByWBDyn",
-            "profile": {
-              "name": "Dwayne Johnson"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb23bd2abefa574c356dcb36ef",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f17823bd2abefa574c356dcb36ef",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:2KTDVOTp2crzV4KBe16SgW",
-            "profile": {
-              "name": "Rock"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb3be664b0e571500cc7722fd5",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f1783be664b0e571500cc7722fd5",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:4pzAvicKWenQtv9zIQim47",
-            "profile": {
-              "name": "Rock Mafia"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb22eb45be3f64aa96e863be2d",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f17822eb45be3f64aa96e863be2d",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3",
-            "profile": {
-              "name": "Jay Rock"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb02012f4390f3c8e7424766a3",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f17802012f4390f3c8e7424766a3",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:2WtzprkWeq1YQZsniLzKUY",
-            "profile": {
-              "name": "Rock"
-            },
-            "visuals": {
-              "avatarImage": null
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:6JDmbR90UIGFaZcVsbmBWe",
-            "profile": {
-              "name": "Rock"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b2731298a37825bcb72c82773a8b",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d000048511298a37825bcb72c82773a8b",
-                    "width": 64,
-                    "height": 64
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:artist:28HYsUPxAybp0lyAV4nxyD",
-            "profile": {
-              "name": "Rock Mack"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000e5eb71c8cdf2362702c3853cffb9",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6761610000f17871c8cdf2362702c3853cffb9",
-                    "width": 160,
-                    "height": 160
-                  }
-                ]
-              }
-            }
+            ]
+          },
+          "date": {
+            "year": 2022
           }
         }
-      ]
-    },
-    "episodes": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:episode:3thwnKKqM6VF9EC4E18R6T",
-            "name": "Memorias de un RockStar",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68de57583bf55c0badcc9ce29e1",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fe57583bf55c0badcc9ce29e1",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8ae57583bf55c0badcc9ce29e1",
-                  "width": 640,
-                  "height": 640
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3lFkDq72YgdzQjCLcj6bMy",
+          "name": "Casualty (feat. EBK Jaaybo)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1QudwWfbchyvkMXva3wdqn",
+                "profile": {
+                  "name": "Li Rye"
                 }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 3793583
-            },
-            "releaseDate": {
-              "isoString": "2022-03-01T02:13:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d5923d8c04c61d3a4a1764243",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f5923d8c04c61d3a4a1764243",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a5923d8c04c61d3a4a1764243",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "Cuidemos dónde ponemos nuestras esperanzas y sueños, pues corremos el riesgo de que se puedan evaporar. Las Escrituras registran la odisea hedonista de Salomón, para ayudarnos a evitar malgastar nuestras vidas como él lo hizo. Tenemos la opción de aprender de sus errores y decidir el legado que dejaremos en otras vidas cuando nos marchemos. Todos vamos a morir, y el mundo seguirá girando sin nosotros. Debemos aprender a vivir sin degradarnos, sin corrompernos, conscientes del viaje que vamos a hacer cuando regresemos a casa con el Padre. Y cuando lleguemos a la penumbra de nuestro atardecer, debemos enfrentar a la muerte, enteros y vivos.  ---   Support this podcast: https://anchor.fm/dante-gebel/support",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:1uzOt89hUJkFYCK9V9fYhT",
-            "name": "KÜFÜR MEDİTASYONU (şifa kaynağı)",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68d7b7d704c1f189455185d789d",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1f7b7d704c1f189455185d789d",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8a7b7d704c1f189455185d789d",
-                  "width": 640,
-                  "height": 640
+              },
+              {
+                "uri": "spotify:artist:7iKgSlIINjat3bsCYiNMYX",
+                "profile": {
+                  "name": "EBK Jaaybo"
                 }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 450021
-            },
-            "releaseDate": {
-              "isoString": "2021-03-08T22:01:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d7b7d704c1f189455185d789d",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f7b7d704c1f189455185d789d",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a7b7d704c1f189455185d789d",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
               }
-            },
-            "description": "her şeyi sikin atın gitsin.",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:4o1idc0WeoHeeBW0N2z2ds",
-            "name": "lovers rock - tv girl / sped up sound by nursena ",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68de411fd56fa8bdf7241b4d6ce",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fe411fd56fa8bdf7241b4d6ce",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8ae411fd56fa8bdf7241b4d6ce",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 162028
-            },
-            "releaseDate": {
-              "isoString": "2022-02-06T17:24:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d938e115ffdb649f70851c533",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f938e115ffdb649f70851c533",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a938e115ffdb649f70851c533",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02c8abe1e2f01b960ffc54eec2",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851c8abe1e2f01b960ffc54eec2",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273c8abe1e2f01b960ffc54eec2",
+                "width": 640,
+                "height": 640
               }
-            },
-            "description": "lovers rock - tv girl",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:3bARFYFvYINOY7zHsOnuRq",
-            "name": "DÜNYANIN EN İYİ SPORCU MOTIVASYONU !!!",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68da8aa29c34b6fbc4baf78840a",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fa8aa29c34b6fbc4baf78840a",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8aa8aa29c34b6fbc4baf78840a",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 631768
-            },
-            "releaseDate": {
-              "isoString": "2021-10-24T11:24:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68dc35d396116be3f60c632e493",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1fc35d396116be3f60c632e493",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8ac35d396116be3f60c632e493",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "DÜNYANIN EN İYİ SPORCU MOTIVASYONU !!! ",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:5ZscUAvunAsTxnBsyFFTl8",
-            "name": "ROCK Y MAS ROCK EN ESPAÑOL",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68d5cfec93f5820010ac7651127",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1f5cfec93f5820010ac7651127",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8a5cfec93f5820010ac7651127",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 9567539
-            },
-            "releaseDate": {
-              "isoString": "2021-04-25T05:09:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d1c54ff06694e2f9a0c7e39ba",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f1c54ff06694e2f9a0c7e39ba",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a1c54ff06694e2f9a0c7e39ba",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "LO MEJOR DEL ROCK EN ESPAÑOL EN GENERACION X BONUS TRACK, MIGUELK MATEOS ENANITOS VERDES, ZOE, LOS CLAXONS, LOS BUNKERS, Y MUCHA MUSICA ESPECTACULAR.",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:0tB5bj6oHf2SDvKdGIJbCN",
-            "name": "BEGE - MİGROS",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/5a5d15c59df3aedd41bcf928584f5968e5edf862",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/d1cb14edd6325986deffdf75f16ff461bd5bf3bc",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/3f20e44f80bc36e9abdb736315d1309b7394cfab",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 163474
-            },
-            "releaseDate": {
-              "isoString": "2020-08-23T21:52:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/6310ef20ab9a42501b67431d9213e8ecd31ee048",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/7a9afa78fcf5b564efa93fb3f35b8910e8ac3264",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/27f3a00cba982bedd28e8b5a43d9f37fd9414eee",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "berkejuan",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:07AkF6vQhmF9uyyCaaiQ5F",
-            "name": "Ansage an die Rocket Beans!",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68d081d4b341621eec380207fc3",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1f081d4b341621eec380207fc3",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8a081d4b341621eec380207fc3",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 4141740
-            },
-            "releaseDate": {
-              "isoString": "2022-03-04T23:20:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d9c15e4a464021ef2b1a5c6f9",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f9c15e4a464021ef2b1a5c6f9",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a9c15e4a464021ef2b1a5c6f9",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "Unsere neue Praktikantin Kata unterstützt uns bei einer krassen Ansage an die Rocket Beans! Werbung: Vielen Dank an HelloFresh! Entdeckt neue Gerichte mit Spar-Vorteil: Bis zu 80€ Rabatt (Schweiz 140CHF) - je nach Boxgröße - und kostenloser Versand für die erste Box auf https://www.hellofresh.de/HFSTUNDE oder mit dem Code HFSTUNDE. Und auch ein dickes Danke an Bookbeat! Holt euch jetzt auf https://www.bookbeat.de/sprechstunde zwei Monate kostenlos Hörbücher und Hörspiele - oder nutzt einfach unseren Rabatt-Code Sprechstunde!Feedback, Diskussionen und Rückfragen beantworten wir in unserer Reddit-Community: https://www.reddit.com/r/Sprechstunde/ See acast.com/privacy for privacy and opt-out information.",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:4A98qNwtCAgBXtPdfR3gy8",
-            "name": "sehinsah-kacarsa-vur-feat-khontkar-kasetcalar-plaa3",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68dd8050a3da8f83204c8773190",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fd8050a3da8f83204c8773190",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8ad8050a3da8f83204c8773190",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 220056
-            },
-            "releaseDate": {
-              "isoString": "2021-05-17T06:18:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d40b888a2b045860c87f6da71",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f40b888a2b045860c87f6da71",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a40b888a2b045860c87f6da71",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "Zaabum.",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:4FMGf0Qmp7U69NLxMlHKeO",
-            "name": "#108 - Rocky Raccoon Ultramarathon Race Recap",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68d28715fe733f3c30998250734",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1f28715fe733f3c30998250734",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8a28715fe733f3c30998250734",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 5358733
-            },
-            "releaseDate": {
-              "isoString": "2022-02-21T07:30:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000f68d371ac5be59f54c44bd94eecd",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67656300005f1f371ac5be59f54c44bd94eecd",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab6765630000ba8a371ac5be59f54c44bd94eecd",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "In this episode, host Nick Bare is joined by BPN's Creative Director Jordan Utter to recount both their experiences running the Rocky Raccoon Ultramarathon which was held on February 5th, 2022.   This is Nick's second 100 mile ultramarathon, and the first race he has run since the Leadville 100 in August of 2021.  Jordan ran the 100 kilometer race on the same course to complete his first ultra. The two share insight into how they approached training, nutrition, and mindset for their respective races, and how their individual experiences differed throughout the weekend.   More Resources: BPN website: www.bpnsupps.com Nick Bare website: www.nickbare.com Instagram: www.instagram.com/nickbarefitness Youtube: www.youtube.com/user/barelifenutrition",
-            "contentRating": {
-              "label": "NONE"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:episode:7qXuwdmQUmlExfIE1G6Sjn",
-            "name": "Rockstar Freestyle",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/fc94858b3b48794d80b68a724552eaf16bad6d15",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ec4a5f83907a720fec8df8d4cb145e224aefbc72",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/6c59b6a4e0a46149f82cb21251a66648ac086293",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "duration": {
-              "totalMilliseconds": 119606
-            },
-            "releaseDate": {
-              "isoString": "2021-01-14T03:27:00Z"
-            },
-            "podcast": {
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/859d78680269d098c94fc73a39168468bee43dc9",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/8bc86e2781af0a9018b7420cb84f883c8353cc9c",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/215cf4e461e52a52e2c8c029d48d6b582ad67baf",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              }
-            },
-            "description": "",
-            "contentRating": {
-              "label": "NONE"
-            }
+            ]
+          },
+          "date": {
+            "year": 2024
           }
         }
-      ]
-    },
-    "genres": {
-      "totalCount": 5,
-      "items": [
-        {
-          "data": {
-            "uri": "rock",
-            "name": "Rock",
-            "image": {
-              "sources": [
-                {
-                  "url": "https://t.scdn.co/media/derived/rock_9ce79e0a4ef901bbd10494f5b855d3cc_0_0_274_274.jpg",
-                  "width": null,
-                  "height": null
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3mAUwWAQKkBlsMThgz3TMz",
+          "name": "Casual Acquaintances",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:2RhgnQNC74QoBlaUvT4MEe",
+                "profile": {
+                  "name": "The Growlers"
                 }
-              ]
-            }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e0290818c4011f39cd3c9f241a1",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000485190818c4011f39cd3c9f241a1",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b27390818c4011f39cd3c9f241a1",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2018
           }
-        },
-        {
-          "data": {
-            "uri": "spotify:genre:0JQ5IMCbQBLABS5QuPz2gz",
-            "name": "Rap Rock",
-            "image": {
-              "sources": [
-                {
-                  "url": "",
-                  "width": null,
-                  "height": null
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:37Dl7RF2VJevNrHBeHWYtt",
+          "name": "Casual",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:00OF0nwYaoBSO3AnPVq3vE",
+                "profile": {
+                  "name": "Johnny Stimson"
                 }
-              ]
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:genre:0JQ5IMCbQBLuSQiPSt7COA",
-            "name": "Rock Right Now",
-            "image": {
-              "sources": [
-                {
-                  "url": "",
-                  "width": null,
-                  "height": null
+              },
+              {
+                "uri": "spotify:artist:2vVT4qoxWje0gVD2FiWZ4u",
+                "profile": {
+                  "name": "Jeff Bernat"
                 }
-              ]
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "50s",
-            "name": "50s",
-            "image": {
-              "sources": [
-                {
-                  "url": "https://t.scdn.co/images/0e5e0ae991aa4c9f83b531bf2f46257f",
-                  "width": null,
-                  "height": null
+              },
+              {
+                "uri": "spotify:artist:51KbY36mrjHRQwvSbel74l",
+                "profile": {
+                  "name": "Jesse Barrera"
                 }
-              ]
-            }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02eec87e9ef90a7da241bfa677",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851eec87e9ef90a7da241bfa677",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273eec87e9ef90a7da241bfa677",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2020
           }
-        },
-        {
-          "data": {
-            "uri": "spotify:genre:0JQ5IMCbQBLtdnAfqgo52b",
-            "name": "Second Wave of Post-rock",
-            "image": {
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3CFK4hbF6HfIXEpWXJV3CF",
+          "name": "No Es Casualidad",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5VcamBo0Goh74iFQDqj6Q4",
+                "profile": {
+                  "name": "Yoskar Sarante"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/6d692dfbbf8caaf9d4bc8309647d769d978c753d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/8e6a349db2a6cee34e9ad753fe05f42281f86ab1",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/1ef175621e439a34f679bf431b359d614d22c388",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2002
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3ieMsFkfAmnxD3wPyMB3WL",
+          "name": "Casual",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0k4UL5tOqUHXxJpxM4Wyae",
+                "profile": {
+                  "name": "Baker St."
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e023cc468877b5d982f3b05da6d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048513cc468877b5d982f3b05da6d",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2733cc468877b5d982f3b05da6d",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:49oAPWhgnFwcBrsUYvYBpl",
+          "name": "Casual (Acoustic)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:51KbY36mrjHRQwvSbel74l",
+                "profile": {
+                  "name": "Jesse Barrera"
+                }
+              },
+              {
+                "uri": "spotify:artist:2vVT4qoxWje0gVD2FiWZ4u",
+                "profile": {
+                  "name": "Jeff Bernat"
+                }
+              },
+              {
+                "uri": "spotify:artist:00OF0nwYaoBSO3AnPVq3vE",
+                "profile": {
+                  "name": "Johnny Stimson"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02e9f9fea17544924ce1869260",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851e9f9fea17544924ce1869260",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273e9f9fea17544924ce1869260",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2020
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3wt9zG5lJJsPIs64JOSrEA",
+          "name": "Casually Dressed & Deep In Conversation",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4AbDWrmJPSOeIbT2Ou60ik",
+                "profile": {
+                  "name": "Funeral For A Friend"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e021942f7f6479d658a819a9396",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048511942f7f6479d658a819a9396",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2731942f7f6479d658a819a9396",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2003
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:0qnDuxzDLdWWi9R473rv85",
+          "name": "Destino o casualidad",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1EXjXQpDx2pROygh8zvHs4",
+                "profile": {
+                  "name": "Melendi"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e024306fd3cc49f5da4417ed1f2",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048514306fd3cc49f5da4417ed1f2",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2734306fd3cc49f5da4417ed1f2",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2018
+          }
+        }
+      }
+    ]
+  },
+  "artists": {
+    "totalCount": 106,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:artist:5uMNhVG30JzeZ5xtPb1tqR",
+          "profile": {
+            "name": "The Casualties"
+          },
+          "visuals": {
+            "avatarImage": {
               "sources": [
                 {
-                  "url": "",
-                  "width": null,
-                  "height": null
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebf24195c5de0981ab9bfafbda",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178f24195c5de0981ab9bfafbda",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616100005174f24195c5de0981ab9bfafbda",
+                  "width": 320,
+                  "height": 320
                 }
               ]
             }
           }
         }
-      ]
-    },
-    "playlists": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1EQpj7X7UK8OOF",
-            "name": "Rock Mix",
-            "description": "<a href=spotify:playlist:37i9dQZF1EIXZWpMEne2Nl>Dire Straits</a>, <a href=spotify:playlist:37i9dQZF1EIUsI68Cm2ojI>Eagles</a>, <a href=spotify:playlist:37i9dQZF1EIVJW7PzIkjtQ>Creedence Clearwater Revival</a> and more",
-            "images": {
-              "items": [
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:4OpQJMrOpOEYgYoU0Ihku3",
+          "profile": {
+            "name": "Casual"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
                 {
-                  "sources": [
-                    {
-                      "url": "https://seed-mix-image.spotifycdn.com/v6/img/rock/0WwSkZ7LtFUFjGjMZBMt6T/en/default",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
+                  "url": "https://i.scdn.co/image/66aef48c52e49ad8788e83e688ba3ac1f8cb4a93",
+                  "width": 531,
+                  "height": 800
+                },
+                {
+                  "url": "https://i.scdn.co/image/8b5efc4ab6088d950a4f83fc2820586eeede000c",
+                  "width": 64,
+                  "height": 96
+                },
+                {
+                  "url": "https://i.scdn.co/image/740c9299ce6f6711474640c1f3c4043212a515d8",
+                  "width": 200,
+                  "height": 301
                 }
               ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
-            "name": "Rock Classics",
-            "description": "Rock legends & epic songs spanning decades, that continue to inspire generations. ",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706f0000000242f2feffa24c09214ab3be76",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1DX3RfxtU3KC3j",
-            "name": "Türkçe Rock",
-            "description": "Gitar ve davulu konuşturanlar. Kapak: Simge Pınar",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706f000000027f1d6906eac7c8e05da12dee",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:42RzknAZ7lkhLhl057N86v",
-            "name": " ROCK NACIONAL ARGENTINO ",
-            "description": "¡Las mejores canciones del Rock Argentino!. <a href=\"https://playlistdespotify.com\">Sugerí tu canción</a>, Dale play y disfruta de los clasicos de rock nacional 80 90.",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706c0000da84594349ddaa2c81ce07d3ce0e",
-                      "width": 640,
-                      "height": 640
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Top Global"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1DXdJK5t0CJ27H",
-            "name": "Kült Rock",
-            "description": "Türkçe rock'ın unutulmazları. Kapak: Duman ",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706f00000002145a1bf38d46cb8a2d8db613",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:6bPfbndNnl9FIRoUVKgmF3",
-            "name": "Türkçe Rock En İyi 100",
-            "description": "Türkçe Rock'ın En İyi 100 Şarkısı Sizler İçin Bu Çalma Listesinde.     | <a href=\"https://www.instagram.com/dipmuzik.co/\">Instagram</a> | ",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706c0000da842e365b856f3daecc254aa568",
-                      "width": 640,
-                      "height": 640
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Dip Müzik"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:6N4OpEkWtV9dRKH5UzPiOk",
-            "name": "Rock en ingles 70, 80, 90 y 00",
-            "description": "Rock en ingles 70, 80, 90 y 00",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706c0000da842bb9d66a173136e8c803f22c",
-                      "width": 640,
-                      "height": 640
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "J Flores"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1DX9bvVeeesP1m",
-            "name": "Anadolu Rock",
-            "description": "Efsanelerin yorumlarıyla saykedelik rock. Kapak: Erkin Koray",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706f00000002d9c35bb892a28bc6dbb2da17",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:3VGtJ4wotczNHihDWT4IaQ",
-            "name": "Rocky Soundtrack (1-6)",
-            "description": "Best songs and music from Rocky I, II, III, IV, V &amp; VI | 洛奇 | ロッキー | Workout and Motivation pump with Rocky Balboa and Creed.",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706c0000da8442afc0b664f39b2e8a8779ca",
-                      "width": 640,
-                      "height": 640
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Boisterous Pop"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:3O0kKyRVt6TxYBTU4EYikO",
-            "name": "Rock Nacional - As Melhores",
-            "description": "Os maiores sucessos do Rock Nacional! Ouça as melhores músicas do Rock Brasileiro com Charlie Brown Jr, Titãs, Legião Urbana, O Rappa, Ira e muito mais! Rock Brasil!",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706c0000da84b315b75b65ffd2dea74e9a2e",
-                      "width": 640,
-                      "height": 640
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "@vitrolaplay"
             }
           }
         }
-      ]
-    },
-    "podcasts": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:show:7exTzXcsvM9EH7uxhWbFFI",
-            "name": "Rockstars del Dinero",
-            "coverArt": {
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:6sjWljb635Ud6GWSZVJLnm",
+          "profile": {
+            "name": "Casual Sex"
+          },
+          "visuals": {
+            "avatarImage": {
               "sources": [
                 {
-                  "url": "https://i.scdn.co/image/ab6765630000f68decdf29703d33cbef9a4a913c",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fecdf29703d33cbef9a4a913c",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8aecdf29703d33cbef9a4a913c",
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebcc1b58834d21071a8c56353f",
                   "width": 640,
                   "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178cc1b58834d21071a8c56353f",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616100005174cc1b58834d21071a8c56353f",
+                  "width": 320,
+                  "height": 320
                 }
               ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Sonoro"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:0IZb7Y060GVPTxP7WV5qXW",
-            "name": "KÜFÜR MEDİTASYONU (şifa kaynağı)",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68d7b7d704c1f189455185d789d",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1f7b7d704c1f189455185d789d",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8a7b7d704c1f189455185d789d",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "daisy"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:6MBMK3p14EkZTPtpu2xfhm",
-            "name": "The Triple M Rocks Footy NRL",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68dfb5bc724cfa04ca3159f2863",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1ffb5bc724cfa04ca3159f2863",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8afb5bc724cfa04ca3159f2863",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Triple M"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:59L0gIoKkCjATVS4mHoFQC",
-            "name": "%100 Müzik ile Rock Tarihinden Hikayeler",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/c89d4639d16bb6f06e82def6323f73ac5f04412c",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/4843a8f066a5eb87fe9740c75705a020d853266c",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/93e9aa5ac26e17ce7e2399496c414e8104349973",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "962 Digital"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:1S8CykYVIekJTcXRRQ7BLq",
-            "name": "La case de papel - çav bella",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/923bd99f391ccb6ca96de937e1eff3fa9de1c1b0",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/aaf3a7d53942f2b6d2034fe434611a2127f95574",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/455a25ee626978a655fb46a08eb131a246201135",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Lastronin Batuhan"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:3kqVVzS5v0Z7dyLUNtxbnL",
-            "name": "Rock n' Roll English",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68de44b9e2e13eeb913b04df0f0",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fe44b9e2e13eeb913b04df0f0",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8ae44b9e2e13eeb913b04df0f0",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Martin Johnston"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:7LKD0lzAdvep1LnCmdWwoe",
-            "name": "ADANA MERKEZ PATLIYOR HERKES",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/b1fa38afb6636b8386ce024c83fb0fb30a1e795e",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/a80d6c7f9c3d2ffe35da19e5e25aec093f4c6380",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/28a5909c1dda8f1981668a2f2a9bd635ffc22b20",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Erdemler Limited®"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:6rUE2QPJmWzH9IWQAzTPTe",
-            "name": "Rockersønnens Hemmelighed",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68d49f2c176cd1bbe96d44e42f5",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1f49f2c176cd1bbe96d44e42f5",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8a49f2c176cd1bbe96d44e42f5",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Loud"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:166vlIA456SIjOrd1L96ay",
-            "name": "Tech Leadership Rocks",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/06f1fdd20262681fa0d3c8a28fa2b7e8ed08adde",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/3e5849716b492c8e6fcbc874749611bf265c90bb",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/151b6d9748d928c92b292cad0b9fa221f2df2d1a",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Eduardo"
-            },
-            "mediaType": "AUDIO"
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:4hCmX3W4pHZlnRbBiEh9Np",
-            "name": "Bizim Rock’çılar",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ea7fe7083507db5612b21f644b4351291e5d05c6",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/95589ee81be5781fc9aee353f4819e2ceddb76cc",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/7104004505cdee9f940cf1d067330a3e477167a7",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "NTVRadyo"
-            },
-            "mediaType": "AUDIO"
-          }
-        }
-      ]
-    },
-    "topResults": {
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:artist:3xs0LEzcPXtgNfMNcHzLIP",
-            "profile": {
-              "name": "Rockwell"
-            },
-            "visuals": {
-              "avatarImage": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b27357de8cb9bbbe22a9e71c8af7",
-                    "width": 640,
-                    "height": 640
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000485157de8cb9bbbe22a9e71c8af7",
-                    "width": 64,
-                    "height": 64
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt",
-            "id": "0e7ipj03S05BNilyu5bRzt",
-            "name": "rockstar (feat. 21 Savage)",
-            "albumOfTrack": {
-              "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR",
-              "name": "beerbongs & bentleys",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "6trNtQUgC8cgbWcqoMYkOR",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR?si=yeu78nLfQHaxy4S3Xuh04w"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60",
-                  "profile": {
-                    "name": "Post Malone"
-                  }
-                },
-                {
-                  "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft",
-                  "profile": {
-                    "name": "21 Savage"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "EXPLICIT"
-            },
-            "duration": {
-              "totalMilliseconds": 218146
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1EQpj7X7UK8OOF",
-            "name": "Rock Mix",
-            "description": "<a href=spotify:playlist:37i9dQZF1EIXZWpMEne2Nl>Dire Straits</a>, <a href=spotify:playlist:37i9dQZF1EIUsI68Cm2ojI>Eagles</a>, <a href=spotify:playlist:37i9dQZF1EIVJW7PzIkjtQ>Creedence Clearwater Revival</a> and more",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://seed-mix-image.spotifycdn.com/v6/img/rock/0WwSkZ7LtFUFjGjMZBMt6T/en/default",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
-            "name": "Rocky IV",
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
-                  "profile": {
-                    "name": "Various Artists"
-                  }
-                }
-              ]
-            },
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00001e02f4a2ccbe20d6d52f16816812",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "date": {
-              "year": 1985
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:show:7exTzXcsvM9EH7uxhWbFFI",
-            "name": "Rockstars del Dinero",
-            "coverArt": {
-              "sources": [
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000f68decdf29703d33cbef9a4a913c",
-                  "width": 64,
-                  "height": 64
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab67656300005f1fecdf29703d33cbef9a4a913c",
-                  "width": 300,
-                  "height": 300
-                },
-                {
-                  "url": "https://i.scdn.co/image/ab6765630000ba8aecdf29703d33cbef9a4a913c",
-                  "width": 640,
-                  "height": 640
-                }
-              ]
-            },
-            "type": "PODCAST",
-            "publisher": {
-              "name": "Sonoro"
-            },
-            "mediaType": "AUDIO"
-          }
-        }
-      ],
-      "featured": [
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1DWYGrDuvTW4S8",
-            "name": "Behind The Lyrics: HITS",
-            "description": "Watch your screen as you listen to see lyrics, fun facts, and artist stories from Genius!",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://i.scdn.co/image/ab67706f0000000243af530ae7fb19fc104789dc",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1E4EghP5SblUDr",
-            "name": "Rockwell Radio",
-            "description": "",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://seeded-session-images.scdn.co/v1/img/artist/3xs0LEzcPXtgNfMNcHzLIP/en",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:playlist:37i9dQZF1DZ06evO23zms8",
-            "name": "This Is Rockwell",
-            "description": "This is Rockwell. The essential tracks, all in one playlist.",
-            "images": {
-              "items": [
-                {
-                  "sources": [
-                    {
-                      "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO23zms8-default.jpg",
-                      "width": null,
-                      "height": null
-                    }
-                  ]
-                }
-              ]
-            },
-            "owner": {
-              "name": "Spotify"
             }
           }
         }
-      ]
-    },
-    "tracks": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt",
-            "id": "0e7ipj03S05BNilyu5bRzt",
-            "name": "rockstar (feat. 21 Savage)",
-            "albumOfTrack": {
-              "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR",
-              "name": "beerbongs & bentleys",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "6trNtQUgC8cgbWcqoMYkOR",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR?si=Bzl5ZJgUTyKSZB8jlvAC4g"
-              }
-            },
-            "artists": {
-              "items": [
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:6je5D4GCgXzxarNIg4EP8X",
+          "profile": {
+            "name": "Casual"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
                 {
-                  "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60",
-                  "profile": {
-                    "name": "Post Malone"
-                  }
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb9d1582820d9079190008112c",
+                  "width": 640,
+                  "height": 640
                 },
                 {
-                  "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft",
-                  "profile": {
-                    "name": "21 Savage"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "EXPLICIT"
-            },
-            "duration": {
-              "totalMilliseconds": 218146
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:0So2sgVa8aJiARPl2P29u2",
-            "id": "0So2sgVa8aJiARPl2P29u2",
-            "name": "Pope Is a Rockstar",
-            "albumOfTrack": {
-              "uri": "spotify:album:7ywSMs3G2OWOGVKMqc7KsE",
-              "name": "SALES LP",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e021138eea74b6d7e06289bedaa",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d000048511138eea74b6d7e06289bedaa",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b2731138eea74b6d7e06289bedaa",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "7ywSMs3G2OWOGVKMqc7KsE",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE?si=-oAUoGg6RU2sEXPLuzM8TA"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:6vVztIuqdDHvYWxOEXCzjN",
-                  "profile": {
-                    "name": "SALES"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 187333
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:4OgwXdylh75fHfwUzJTUqg",
-            "id": "4OgwXdylh75fHfwUzJTUqg",
-            "name": "Rockstar",
-            "albumOfTrack": {
-              "uri": "spotify:album:1US66auJ538TiXGeUf24yL",
-              "name": "Rockstar",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e02a1d56525c3380e5cbda5f48f",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00004851a1d56525c3380e5cbda5f48f",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273a1d56525c3380e5cbda5f48f",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "1US66auJ538TiXGeUf24yL",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/1US66auJ538TiXGeUf24yL?si=OPhXrO-GQf-YuQRGTbwBBA"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:5deLgmgAEgy8UHOfJ9Dj8w",
-                  "profile": {
-                    "name": "Ilkay Sencan"
-                  }
+                  "url": "https://i.scdn.co/image/ab6761610000f1789d1582820d9079190008112c",
+                  "width": 160,
+                  "height": 160
                 },
                 {
-                  "uri": "spotify:artist:3v6Ji4uoWtKRkhuDUaxi9n",
-                  "profile": {
-                    "name": "Dynoro"
-                  }
+                  "url": "https://i.scdn.co/image/ab676161000051749d1582820d9079190008112c",
+                  "width": 320,
+                  "height": 320
                 }
               ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 212280
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:5knuzwU65gJK7IF5yJsuaW",
-            "id": "5knuzwU65gJK7IF5yJsuaW",
-            "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
-            "albumOfTrack": {
-              "uri": "spotify:album:3meZFplbMmji648oWUNEfQ",
-              "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e021431c3bdf16aa99f71799d95",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d000048511431c3bdf16aa99f71799d95",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b2731431c3bdf16aa99f71799d95",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "3meZFplbMmji648oWUNEfQ",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ?si=kEcpyNGcTSKlhRySRMnDkA"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM",
-                  "profile": {
-                    "name": "Clean Bandit"
-                  }
-                },
-                {
-                  "uri": "spotify:artist:3Isy6kedDrgPYoTS1dazA9",
-                  "profile": {
-                    "name": "Sean Paul"
-                  }
-                },
-                {
-                  "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX",
-                  "profile": {
-                    "name": "Anne-Marie"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 251088
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:0CN4qzGw9mUHYdQvo7VCsu",
-            "id": "0CN4qzGw9mUHYdQvo7VCsu",
-            "name": "Rockin' Around The Christmas Tree",
-            "albumOfTrack": {
-              "uri": "spotify:album:6b8YfsKvzvepM8nCVPOztx",
-              "name": "Esperando A Santa Vol. 2",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e0263d4e6d89dd8fb4e1c0d31f2",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000485163d4e6d89dd8fb4e1c0d31f2",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b27363d4e6d89dd8fb4e1c0d31f2",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "6b8YfsKvzvepM8nCVPOztx",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/6b8YfsKvzvepM8nCVPOztx?si=cPP-5U-VQ8WshbvBA5EATA"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:5C4PDR4LnhZTbVnKWXuDKD",
-                  "profile": {
-                    "name": "Morat"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 154453
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:3B3V1R35fv4Vz5FNBT7xUn",
-            "id": "3B3V1R35fv4Vz5FNBT7xUn",
-            "name": "you should see me in a crown",
-            "albumOfTrack": {
-              "uri": "spotify:album:1aUEOFjCxEAY3e3JBtLQIR",
-              "name": "Girls Rock!",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e02d0e5044969ecc03e2ed11f12",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00004851d0e5044969ecc03e2ed11f12",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273d0e5044969ecc03e2ed11f12",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "1aUEOFjCxEAY3e3JBtLQIR",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/1aUEOFjCxEAY3e3JBtLQIR?si=JujzA6BjT-K4AfNrMaNPRQ"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
-                  "profile": {
-                    "name": "Billie Eilish"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 180566
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:1FKG2wgJ75wS9MFNVZFiWd",
-            "id": "1FKG2wgJ75wS9MFNVZFiWd",
-            "name": "POCKET ROCKET",
-            "albumOfTrack": {
-              "uri": "spotify:album:2wq6cnNKGy6tP5c5ow5Uo8",
-              "name": "POCKET ROCKET",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e02efe0cfba604f12fddb637588",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00004851efe0cfba604f12fddb637588",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273efe0cfba604f12fddb637588",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "2wq6cnNKGy6tP5c5ow5Uo8",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/2wq6cnNKGy6tP5c5ow5Uo8?si=SIVndD7vQo-8bO51ZiS5Ig"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:46HzS7yz0c9udVwtbHk1sx",
-                  "profile": {
-                    "name": "Cochise"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "EXPLICIT"
-            },
-            "duration": {
-              "totalMilliseconds": 131500
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:2KH16WveTQWT6KOG9Rg6e2",
-            "id": "2KH16WveTQWT6KOG9Rg6e2",
-            "name": "Eye of the Tiger",
-            "albumOfTrack": {
-              "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
-              "name": "Rocky IV",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e02f4a2ccbe20d6d52f16816812",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "3t3BbpFJiGcXl4jI5CRLLA",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA?si=TvCS2zECTNe-aZLelI62KQ"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:26bcq2nyj5GB7uRr558iQg",
-                  "profile": {
-                    "name": "Survivor"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 245640
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4",
-            "id": "7ytR5pFWmSjzHJIeQkgog4",
-            "name": "ROCKSTAR (feat. Roddy Ricch)",
-            "albumOfTrack": {
-              "uri": "spotify:album:623PL2MBg50Br5dLXC9E9e",
-              "name": "BLAME IT ON BABY",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000485120e08c8cc23f404d723b5647",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "623PL2MBg50Br5dLXC9E9e",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e?si=FFFMl_KRS1u1Lt-g7NLQiw"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:4r63FhuTkUYltbVAg5TQnk",
-                  "profile": {
-                    "name": "DaBaby"
-                  }
-                },
-                {
-                  "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB",
-                  "profile": {
-                    "name": "Roddy Ricch"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "EXPLICIT"
-            },
-            "duration": {
-              "totalMilliseconds": 181733
-            },
-            "playability": {
-              "playable": true
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:track:1H7zdcRD0gLGQY0w5ejGgX",
-            "id": "1H7zdcRD0gLGQY0w5ejGgX",
-            "name": "Lovers Rock",
-            "albumOfTrack": {
-              "uri": "spotify:album:6WrxgVbi9Q96gV8tZMq3FH",
-              "name": "French Exit",
-              "coverArt": {
-                "sources": [
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d00001e023cfca71bb96dacbb1c0fb2bf",
-                    "width": 300,
-                    "height": 300
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d000048513cfca71bb96dacbb1c0fb2bf",
-                    "width": 64,
-                    "height": 64
-                  },
-                  {
-                    "url": "https://i.scdn.co/image/ab67616d0000b2733cfca71bb96dacbb1c0fb2bf",
-                    "width": 640,
-                    "height": 640
-                  }
-                ]
-              },
-              "id": "6WrxgVbi9Q96gV8tZMq3FH",
-              "sharingInfo": {
-                "shareUrl": "https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH?si=J2L4XgtUQ9uP4Z8k9hWYzw"
-              }
-            },
-            "artists": {
-              "items": [
-                {
-                  "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-                  "profile": {
-                    "name": "TV Girl"
-                  }
-                }
-              ]
-            },
-            "contentRating": {
-              "label": "NONE"
-            },
-            "duration": {
-              "totalMilliseconds": 213920
-            },
-            "playability": {
-              "playable": true
             }
           }
         }
-      ]
-    },
-    "users": {
-      "totalCount": 1000,
-      "items": [
-        {
-          "data": {
-            "uri": "spotify:user:rockstargames",
-            "id": "rockstargames",
-            "displayName": "Rockstar Games",
-            "username": "rockstargames",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b822696da150dafe289126bd1ff",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee852696da150dafe289126bd1ff"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:rockinriooficial",
-            "id": "rockinriooficial",
-            "displayName": "Rock in Rio",
-            "username": "rockinriooficial",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8215699e5d984ae3e7d7589177",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8515699e5d984ae3e7d7589177"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:rockhardmagazin",
-            "id": "rockhardmagazin",
-            "displayName": "Rock Hard Magazin",
-            "username": "rockhardmagazin",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82dda3f3540459214ebff2da77",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85dda3f3540459214ebff2da77"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:my-rock",
-            "id": "my-rock",
-            "displayName": "Phil Lists",
-            "username": "my-rock",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82ba492c3510fa3b46db282801",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85ba492c3510fa3b46db282801"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:filtr.rock.de",
-            "id": "filtr.rock.de",
-            "displayName": "Rock.de",
-            "username": "filtr.rock.de",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b821a14b4fe7e0de0ad59ce986a",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee851a14b4fe7e0de0ad59ce986a"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:rocksound",
-            "id": "rocksound",
-            "displayName": "Rock Sound",
-            "username": "rocksound",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b820eff7c66ce2bb7cb66617b24",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee850eff7c66ce2bb7cb66617b24"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:ev33mgdhkavs2p6qy72ki9z3e",
-            "id": "ev33mgdhkavs2p6qy72ki9z3e",
-            "displayName": "East Rock Radio",
-            "username": "ev33mgdhkavs2p6qy72ki9z3e",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82816b6d89caa109762a92774a",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85816b6d89caa109762a92774a"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:rockdeluxspotifyoficial",
-            "id": "rockdeluxspotifyoficial",
-            "displayName": "Rockdelux Oficial",
-            "username": "rockdeluxspotifyoficial",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82f41bd749ae78e8a580a067fb",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85f41bd749ae78e8a580a067fb"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:classicrockmagazine",
-            "id": "classicrockmagazine",
-            "displayName": "Classic Rock",
-            "username": "classicrockmagazine",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82a531fb77c4515fff70d46bf0",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85a531fb77c4515fff70d46bf0"
-            }
-          }
-        },
-        {
-          "data": {
-            "uri": "spotify:user:lyckligaste",
-            "id": "lyckligaste",
-            "displayName": "ROCK RADAR",
-            "username": "lyckligaste",
-            "image": {
-              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8211eac9b124799ffa87753751",
-              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8511eac9b124799ffa87753751"
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:1ivH8IH6j1U7lCgkuYxoUa",
+          "profile": {
+            "name": "Casual Fan"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb1eb30c7e44b2ec561ce5a353",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1781eb30c7e44b2ec561ce5a353",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab676161000051741eb30c7e44b2ec561ce5a353",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
             }
           }
         }
-      ]
-    }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:1b9jzE9iByJTQkQJYL25aA",
+          "profile": {
+            "name": "Casual"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c139237e1d9e6f77f1b9afd9",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851c139237e1d9e6f77f1b9afd9",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c139237e1d9e6f77f1b9afd9",
+                  "width": 300,
+                  "height": 300
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:2z28pJU1CDDelSqq2gFNgg",
+          "profile": {
+            "name": "CASUAL"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb11fe3da6b3a2afee82f5c8a3",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f17811fe3da6b3a2afee82f5c8a3",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000517411fe3da6b3a2afee82f5c8a3",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:2NDHujf9zYxhdC7RxXt4Jq",
+          "profile": {
+            "name": "Casual Chill"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b97d6528d014d8e8b1ca0672",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851b97d6528d014d8e8b1ca0672",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b97d6528d014d8e8b1ca0672",
+                  "width": 300,
+                  "height": 300
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:3f0LgNNEA3b17uWdDlcMGs",
+          "profile": {
+            "name": "Casual"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2730e56b9b369cbfcd9973cfefd",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048510e56b9b369cbfcd9973cfefd",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e020e56b9b369cbfcd9973cfefd",
+                  "width": 300,
+                  "height": 300
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:2Cj1FE9JlQydss28s9cI5g",
+          "profile": {
+            "name": "Casualty"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f9c4e345e01ac12633ee6176",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851f9c4e345e01ac12633ee6176",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f9c4e345e01ac12633ee6176",
+                  "width": 300,
+                  "height": 300
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  "episodes": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:episode:7IfS21LSn3SolhTI16lsoc",
+          "name": "Bonnie and Clyde: Lovers, Outlaws, Morons",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 11959379
+          },
+          "releaseDate": {
+            "isoString": "2024-03-15T16:31:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Join us for a thrilling journey back to April 1st, 1934, Easter Sunday, as Bonnie and Clyde navigate danger in Dallas. An epic tale of love, crime, and unexpected encounters unfolds!   Sponsor: Shopify - shopify.com/casual - sign up for a $1 per month trial period  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:0G0cqMJQEEFXux5VPivAGw",
+          "name": "Stephen Lawrence: The Murder Case That Shook The UK",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 6624000
+          },
+          "releaseDate": {
+            "isoString": "2024-03-01T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Uncover the shocking true story of Stephen Lawrence's racially motivated murder in 1993. Explore the three-decade-long battle for justice, police corruption, and the lasting impact on racial relations.   Sponsor: Quince.com/CASUAL for free shipping on your order and 365-day returns Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:7y4Ia4T6WLB4TSxuLADrvv",
+          "name": "David Parker Ray: The Toy-Box Killer",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 4858644
+          },
+          "releaseDate": {
+            "isoString": "2024-03-22T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Prepare to be horrified! Join us for a chilling tale of torture and sadism in the summer of '86. Jesse's accusations against David Parker Ray reveal a twisted reality. Don't miss out!  Sponsor: RocketMoney.com/casual - cancel your unwanted subscriptions  Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:4dC4HCQJujEolEOhXhX9cj",
+          "name": "The Casanova Killer: The Brutal Escapades of Paul John Knowles",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 3223536
+          },
+          "releaseDate": {
+            "isoString": "2024-03-08T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Dive into the chilling tale of Paul John Knowles, The Casanova Killer. Uncover the dark side of 'good-looking' as we explore his twisted upbringing and the heinous crimes that shook multiple states!   Sponsors: Rocket Money - Cancel your unwanted subscriptions by going to RocketMoney.com/CASUAL Shopify - $1 per month trial period at shopify.com/casual Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:5FKlwNYcN7lBzVaNAgdHj4",
+          "name": "The Shocking Case of the Suffolk Strangler",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 5079327
+          },
+          "releaseDate": {
+            "isoString": "2024-03-06T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Unravel the chilling tale of the 2006 Ipswich serial murders! Join us as we delve into the heartbreaking stories of the victims, the intense investigation, and the dark twists that unfolded.  Sponsors: Rocket Money - Cancel your unwanted subscriptions by going to RocketMoney.com/CASUAL Shopify - $1 per month trial period at shopify.com/casual Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:0VZJbzAKqOaMnC8b6aENGD",
+          "name": "A Web of Lies: The Investigation That Uncovered a Murderous Obsession",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 3190961
+          },
+          "releaseDate": {
+            "isoString": "2024-02-14T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Unlock the captivating journey of Dave, a single dad navigating love post-divorce. From failed attempts to find a 'friend with benefits' to unexpected encounters, this story redefines relationships after heartbreak.   Sponsors: Rocket Money - Cancel your unwanted subscriptions by going to RocketMoney.com/CASUAL Shopify - $1 per month trial period at shopify.com/casual Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:5BsnEzefTL2PnGPhVzqzps",
+          "name": "Doomscrolling, Sitting Jeans, & Casual Posting | Sadie, Bella, Mary Kate, Rebecca, & Abby",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db0a45f207f5cf2181d1ec335",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb0a45f207f5cf2181d1ec335",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab0a45f207f5cf2181d1ec335",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 2891572
+          },
+          "releaseDate": {
+            "isoString": "2024-02-12T06:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68db0a45f207f5cf2181d1ec335",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fb0a45f207f5cf2181d1ec335",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8ab0a45f207f5cf2181d1ec335",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "For the first time Sadie is joined by ALL her sisters for a lively discussion on what's in and what's out for the year ahead. Abby and Bella educate us on sitting vs. standing jeans. Mary Kate and Rebecca are prioritizing their family and building healthy habits. Sadie quickly identifies who's a JOMO and who's a FOMO girl. Mary Kate can't wait for Sadie to finish reading her first ever fantasy book. And Bella is just FINE with everyone noticing how much she says \"like!\" She's working on it!  https://www.audible.com/whoa — New members try Audible FREE for 30 days Or text WHOA to 500-500 to try Audible FREE! https://drinkag1.com/whoa — Get a FREE 1-year supply of Vitamin D3+K2 AND for a limited time you’ll get 10 free AG1 Travel Packs with your first purchase! https://www.drinklmnt.com/whoa — Get 8 single serving packets FREE with any LMNT order! - Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:6ILBM8FrZ16SwxumVJb8uU",
+          "name": "How A Daughter Was Tricked Into Killing: The Shocking Story of Linda Bailey Brown",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 5864202
+          },
+          "releaseDate": {
+            "isoString": "2024-02-16T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Unraveling a chilling crime in a quiet neighborhood! Join Officer Darrow Halligan on a late-night investigation that exposes a twisted family dynamic, secrets, and a shocking tragedy.    Sponsors: Rocket Money - Cancel your unwanted subscriptions by going to RocketMoney.com/CASUAL Shopify - $1 per month trial period at shopify.com/casual Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:2XqcWUc0OylNhItxHcEC8s",
+          "name": "The Killing Hour Cult: The Insanity of The Alexander Family",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 2175555
+          },
+          "releaseDate": {
+            "isoString": "2024-02-23T08:10:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Dive into the dark and chilling tale of the Alexander family, twisted by zealous religious beliefs from The Lorber Society. Uncover the shocking events that unfolded, leaving a trail of destruction.   Sponsor: shopify.com/casual - sign up for a $1 per month trial Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:2tb7OaGc3Fb3deMvnm55iD",
+          "name": "Dean Corll: Candy Man, Pied Piper, Monster",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 9097769
+          },
+          "releaseDate": {
+            "isoString": "2024-02-03T20:00:00Z"
+          },
+          "podcast": {
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            }
+          },
+          "description": "Witness the chilling account of Dean Corll, the \"Candy Man\", who terrorized Houston from 1970-1973, luring and murdering 28 teenage boys with the help of his accomplices. Unveil the shocking truth in this gripping story.   Sponsor: Quince.com/CASUAL for free shipping on your order and 365-day returns. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      }
+    ]
+  },
+  "genres": {
+    "totalCount": 0,
+    "items": []
+  },
+  "playlists": {
+    "totalCount": 213,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:playlist:5FLQwY1dXZlmgzGrxhlgsI",
+          "name": "is it casual NOW?",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i2o.scdn.co/image/ab67706c0000cfa3a33c6fdf4e14cc77bab07778",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "hayden"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3ZoukduxJicZXC0WLV1diU",
+          "name": "Casual ",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i2o.scdn.co/image/ab67706c0000cfa36b023fb4ef5483eccc9b16d5",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Maya Micci Morrison"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:4lPBjY1egYPRN058ZPDWIY",
+          "name": "is it casual now?",
+          "description": "i dont believe in situationships but if i did this would be the playlist i made about them",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i2o.scdn.co/image/ab67706c0000cfa3c19135aef4028847c8055653",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "soph"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1E8KS2trIVnRY3",
+          "name": "Casual Radio",
+          "description": "With Chappell Roan, MUNA, Lucy Dacus, Maude Latour and more",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/track/3WSOUb3U7tqURbBSgZTrZX/en",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2tchxJjfHQGG4r1FUrFVWB",
+          "name": "Casual songs",
+          "description": "Most of these songs are sped up only cuz they sound better when they are sped up. I hope you enjoy this playlist and share it with friends 🫶🏼",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8461dfbe4a84509cfd7a1adbf2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "s21s"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1etGytnkZzAdoDzGp0c8Ig",
+          "name": "pov: you're in a friends with benefits situation",
+          "description": "I just want you to use me&lt;33 ",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84178df01e85f1443f9e3cc1a1",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Zoe Love♡"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3EqsWTPdpp1q55O53AZjEb",
+          "name": "Casual Teen Titans",
+          "description": "I rewatched the old Teen Titans tv show and it turned into a series of drawings about them, and how their daily lives would be, besides being part time heroes. Here&#x27;s a playlist!",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8472e4ffe4553845d17c15eeae",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Gabriel Bertasoli"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3CJgYORor8vfp4zQ4nswoz",
+          "name": "Casual Playlist",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0215a6fad25bd729dc98799b90ab67616d00001e026692ed2c27a90830c00a9032ab67616d00001e026e996745f2c7b8036abef213ab67616d00001e02fc2101e6889d6ce9025f85f2",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0215a6fad25bd729dc98799b90ab67616d00001e026692ed2c27a90830c00a9032ab67616d00001e026e996745f2c7b8036abef213ab67616d00001e02fc2101e6889d6ce9025f85f2",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0215a6fad25bd729dc98799b90ab67616d00001e026692ed2c27a90830c00a9032ab67616d00001e026e996745f2c7b8036abef213ab67616d00001e02fc2101e6889d6ce9025f85f2",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Ironhide-Ak47"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:6stxGz3iOsru2aTKyMIKyx",
+          "name": "so casually cruel in the name of being honest",
+          "description": "taylor swift",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fa12c5bd718f86b5f1fca3d7",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "vinoj_moh"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1wzyhyXyEuTW2Fjhk517tW",
+          "name": "CASUAL GABBERZ",
+          "description": "Casual Gabberz | Boiler Room Paris: Fusion mes Couilles",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i2o.scdn.co/image/ab67706c0000cfa3a0764526c9a114194ccc5420",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "eduartoh"
+          }
+        }
+      }
+    ]
+  },
+  "podcasts": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:show:27pKTcu62mvb0J1R6xmRI1",
+          "name": "Casual Preppers Podcast - Prepping, Survival, Entertainment.",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dd6df3934d39bb6ba789195e4",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fd6df3934d39bb6ba789195e4",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad6df3934d39bb6ba789195e4",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Casual Preppers"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:47GOTAdcNOCEmtH2CuiJqD",
+          "name": "The Casual Criminalist",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1f04bbdced31324a18864019",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1f04bbdced31324a18864019",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1f04bbdced31324a18864019",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Cloud10"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:12alDqvN7XG9HL0bDZXE8i",
+          "name": "Casual",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6f267c4a05b052be35e8e5ee",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6f267c4a05b052be35e8e5ee",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6f267c4a05b052be35e8e5ee",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "EasyPodcast"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:5HuXhckzzGYZhoE0NNX9vL",
+          "name": "The Casual Cattle Conversations Podcast",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da2bf7fb8ae85133c6e255bea",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa2bf7fb8ae85133c6e255bea",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa2bf7fb8ae85133c6e255bea",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "casualcattleconversations"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:7h9lBcFqldnOzle5MMuQjK",
+          "name": "The Casuals MMA",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6b8db1781f102e0faf7ff66b",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6b8db1781f102e0faf7ff66b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6b8db1781f102e0faf7ff66b",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "OOSS Media"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:4RWFnqkDJY478kK3uaUQde",
+          "name": "Casual",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dd870a26908dd2f982d3f5e3a",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fd870a26908dd2f982d3f5e3a",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad870a26908dd2f982d3f5e3a",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Casual"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:2kB0SVmKDs2XcOvJOPu4FO",
+          "name": "Casual Magic with Shivam Bhatt",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d57f57e6687e9c1cabb060a50",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f57f57e6687e9c1cabb060a50",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a57f57e6687e9c1cabb060a50",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Shivam Bhatt"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:5o6Z3TcgwtoNIiH5SiKN2K",
+          "name": "Filthy Casuals with Tommy Dassalo, Ben Vernel and Adam Knox",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68debdc18a8461dc6e9022e6cb8",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1febdc18a8461dc6e9022e6cb8",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aebdc18a8461dc6e9022e6cb8",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Tommy Dassalo, Ben Vernel and Adam Knox"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:7KLf2UjBwYldYfYYwpSget",
+          "name": "Casual Gaming Conversation ",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d7c7577bf596aba8cadf660f3",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f7c7577bf596aba8cadf660f3",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7c7577bf596aba8cadf660f3",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Co-Op 64"
+          },
+          "mediaType": "MIXED"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:5nAIxvxtPGnlGvkj9sqRqc",
+          "name": "Casual Swinger - A Sex Positive, Swinging Lifestyle Podcast",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d39e0b91faf27d9bbb4889c6d",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f39e0b91faf27d9bbb4889c6d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a39e0b91faf27d9bbb4889c6d",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Mickey & Mallory"
+          },
+          "mediaType": "AUDIO"
+        }
+      }
+    ]
+  },
+  "topResults": {
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:3WSOUb3U7tqURbBSgZTrZX",
+          "id": "3WSOUb3U7tqURbBSgZTrZX",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:0EiI8ylL0FmWWpgHVTsZjZ",
+            "name": "The Rise and Fall of a Midwest Princess",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0296fa88fb1789be437d5cb4b6",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "0EiI8ylL0FmWWpgHVTsZjZ",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ?si=5ulU5cVFTpqaeeJ6z5gN2Q"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+                "profile": {
+                  "name": "Chappell Roan"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 232796
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:3RbMNAF41SOcoAywQ4sUhz",
+          "id": "3RbMNAF41SOcoAywQ4sUhz",
+          "name": "Casualty (feat. EBK Jaaybo)",
+          "albumOfTrack": {
+            "uri": "spotify:album:3lFkDq72YgdzQjCLcj6bMy",
+            "name": "Casualty (feat. EBK Jaaybo)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c8abe1e2f01b960ffc54eec2",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851c8abe1e2f01b960ffc54eec2",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c8abe1e2f01b960ffc54eec2",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "3lFkDq72YgdzQjCLcj6bMy",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/3lFkDq72YgdzQjCLcj6bMy?si=QgLrPLovSA2el7M2SRRb0A"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1QudwWfbchyvkMXva3wdqn",
+                "profile": {
+                  "name": "Li Rye"
+                }
+              },
+              {
+                "uri": "spotify:artist:7iKgSlIINjat3bsCYiNMYX",
+                "profile": {
+                  "name": "EBK Jaaybo"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 216648
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:442YgzY4YBcE3UXFRrczJb",
+          "id": "442YgzY4YBcE3UXFRrczJb",
+          "name": "Casual Sex",
+          "albumOfTrack": {
+            "uri": "spotify:album:31CFF4SUTpGpcPoACFQ6K7",
+            "name": "Sick And Twisted Affair (Deluxe Edition)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e029cc727b6d9d794ffcb8b0175",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048519cc727b6d9d794ffcb8b0175",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739cc727b6d9d794ffcb8b0175",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "31CFF4SUTpGpcPoACFQ6K7",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/31CFF4SUTpGpcPoACFQ6K7?si=yUqWulHKRa-ZwCM0Gw4MDg"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:64g59lHsc4g2jMFokrKDGW",
+                "profile": {
+                  "name": "My Darkest Days"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 193573
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:5uMNhVG30JzeZ5xtPb1tqR",
+          "profile": {
+            "name": "The Casualties"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebf24195c5de0981ab9bfafbda",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178f24195c5de0981ab9bfafbda",
+                  "width": 160,
+                  "height": 160
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616100005174f24195c5de0981ab9bfafbda",
+                  "width": 320,
+                  "height": 320
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5FLQwY1dXZlmgzGrxhlgsI",
+          "name": "is it casual NOW?",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i2o.scdn.co/image/ab67706c0000cfa3a33c6fdf4e14cc77bab07778",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "hayden"
+          }
+        }
+      }
+    ],
+    "featured": [
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO3ezSVn",
+          "name": "This Is The Casualties",
+          "description": "This is The Casualties. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3ezSVn-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1E4xuGgyEuy4Mt",
+          "name": "The Casualties Radio",
+          "description": "With Total Chaos, The Virus, The Unseen and more",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/5uMNhVG30JzeZ5xtPb1tqR/en",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      }
+    ]
+  },
+  "tracks": {
+    "totalCount": 887,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:3WSOUb3U7tqURbBSgZTrZX",
+          "id": "3WSOUb3U7tqURbBSgZTrZX",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:0EiI8ylL0FmWWpgHVTsZjZ",
+            "name": "The Rise and Fall of a Midwest Princess",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0296fa88fb1789be437d5cb4b6",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "0EiI8ylL0FmWWpgHVTsZjZ",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ?si=J_SMjFRERbeMxkVNIg0TLw"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+                "profile": {
+                  "name": "Chappell Roan"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 232796
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:3RbMNAF41SOcoAywQ4sUhz",
+          "id": "3RbMNAF41SOcoAywQ4sUhz",
+          "name": "Casualty (feat. EBK Jaaybo)",
+          "albumOfTrack": {
+            "uri": "spotify:album:3lFkDq72YgdzQjCLcj6bMy",
+            "name": "Casualty (feat. EBK Jaaybo)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c8abe1e2f01b960ffc54eec2",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851c8abe1e2f01b960ffc54eec2",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c8abe1e2f01b960ffc54eec2",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "3lFkDq72YgdzQjCLcj6bMy",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/3lFkDq72YgdzQjCLcj6bMy?si=g6kCHk6ISsSPXbngKWQPAw"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1QudwWfbchyvkMXva3wdqn",
+                "profile": {
+                  "name": "Li Rye"
+                }
+              },
+              {
+                "uri": "spotify:artist:7iKgSlIINjat3bsCYiNMYX",
+                "profile": {
+                  "name": "EBK Jaaybo"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 216648
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:442YgzY4YBcE3UXFRrczJb",
+          "id": "442YgzY4YBcE3UXFRrczJb",
+          "name": "Casual Sex",
+          "albumOfTrack": {
+            "uri": "spotify:album:31CFF4SUTpGpcPoACFQ6K7",
+            "name": "Sick And Twisted Affair (Deluxe Edition)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e029cc727b6d9d794ffcb8b0175",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048519cc727b6d9d794ffcb8b0175",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739cc727b6d9d794ffcb8b0175",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "31CFF4SUTpGpcPoACFQ6K7",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/31CFF4SUTpGpcPoACFQ6K7?si=yj_IBNziRFma2rLztu-XsQ"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:64g59lHsc4g2jMFokrKDGW",
+                "profile": {
+                  "name": "My Darkest Days"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 193573
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:4cEVbTyE1o7ZcgKU3wK8gH",
+          "id": "4cEVbTyE1o7ZcgKU3wK8gH",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:0OLxztpxYJ9BAOPzGkD0Wf",
+            "name": "Casual",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0264d902c3c35e0d045572977e",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485164d902c3c35e0d045572977e",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27364d902c3c35e0d045572977e",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "0OLxztpxYJ9BAOPzGkD0Wf",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/0OLxztpxYJ9BAOPzGkD0Wf?si=ebN16KAxTpiDq3dCm8PKug"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+                "profile": {
+                  "name": "Chappell Roan"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 232796
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1aDCjyFTiY6EG9mbl7HMog",
+          "id": "1aDCjyFTiY6EG9mbl7HMog",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:37Dl7RF2VJevNrHBeHWYtt",
+            "name": "Casual",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02eec87e9ef90a7da241bfa677",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851eec87e9ef90a7da241bfa677",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273eec87e9ef90a7da241bfa677",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "37Dl7RF2VJevNrHBeHWYtt",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/37Dl7RF2VJevNrHBeHWYtt?si=rsCJDcbQQ62nuOoKAo_KaA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:00OF0nwYaoBSO3AnPVq3vE",
+                "profile": {
+                  "name": "Johnny Stimson"
+                }
+              },
+              {
+                "uri": "spotify:artist:2vVT4qoxWje0gVD2FiWZ4u",
+                "profile": {
+                  "name": "Jeff Bernat"
+                }
+              },
+              {
+                "uri": "spotify:artist:51KbY36mrjHRQwvSbel74l",
+                "profile": {
+                  "name": "Jesse Barrera"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 200037
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:2tT9weSQUFDWsVgHBYz3G6",
+          "id": "2tT9weSQUFDWsVgHBYz3G6",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:54tInqO543zy0Y5F2VsUQI",
+            "name": "Amala",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e020f4f19f09818756f25916e45",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048510f4f19f09818756f25916e45",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2730f4f19f09818756f25916e45",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "54tInqO543zy0Y5F2VsUQI",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI?si=vgYIqRJ0Rm-DCJtyxSa6Lw"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5",
+                "profile": {
+                  "name": "Doja Cat"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 240386
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:2zkXavDV9dw8uR0pfhsBt2",
+          "id": "2zkXavDV9dw8uR0pfhsBt2",
+          "name": "Casual Affair",
+          "albumOfTrack": {
+            "uri": "spotify:album:1hxraaWEf3wFnJxADf8Dge",
+            "name": "Too Weird to Live, Too Rare to Die!",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e023d01f39642426b65217fbe21",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048513d01f39642426b65217fbe21",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2733d01f39642426b65217fbe21",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "1hxraaWEf3wFnJxADf8Dge",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge?si=xd2q0rQ0QP2IeK-Im9gJxw"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK",
+                "profile": {
+                  "name": "Panic! At The Disco"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 197693
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:5idhEHmpq4MNVxQD4DqE8K",
+          "id": "5idhEHmpq4MNVxQD4DqE8K",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:3wOMqxNHgkga91RBC7BaZU",
+            "name": "Amala (Deluxe Version)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e0c9d69f356c8b8a378a4d3c",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851e0c9d69f356c8b8a378a4d3c",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e0c9d69f356c8b8a378a4d3c",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "3wOMqxNHgkga91RBC7BaZU",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU?si=TL7MzMoRTYyR7fmphNb-YA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5",
+                "profile": {
+                  "name": "Doja Cat"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 240386
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:7vvzhZNBsfR2AdGfUaQSFn",
+          "id": "7vvzhZNBsfR2AdGfUaQSFn",
+          "name": "Casualties",
+          "albumOfTrack": {
+            "uri": "spotify:album:0gflml0MdMnmoErrpjgaqr",
+            "name": "Burn.Flicker.Die",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02091ba7dfa4e33530cd6025cc",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851091ba7dfa4e33530cd6025cc",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273091ba7dfa4e33530cd6025cc",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "0gflml0MdMnmoErrpjgaqr",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/0gflml0MdMnmoErrpjgaqr?si=-kQVw_YXQt66u96reHu3JA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7nSYcucRT6IGiMepEmiZgT",
+                "profile": {
+                  "name": "American Aquarium"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "duration": {
+            "totalMilliseconds": 274293
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1ENoAeKzX8JFjyiyl5Wot8",
+          "id": "1ENoAeKzX8JFjyiyl5Wot8",
+          "name": "Casual",
+          "albumOfTrack": {
+            "uri": "spotify:album:1CbUFBhTn9OAjZ2n4Vtxro",
+            "name": "Rising Pop Stars",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e026d86a5451225dffb33261108",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048516d86a5451225dffb33261108",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2736d86a5451225dffb33261108",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "1CbUFBhTn9OAjZ2n4Vtxro",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/1CbUFBhTn9OAjZ2n4Vtxro?si=uRWUPHqtTZm6Zuzx-OmnNA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+                "profile": {
+                  "name": "Chappell Roan"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 232796
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      }
+    ]
+  },
+  "users": {
+    "totalCount": 10,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:user:majesticcasualofficial",
+          "id": "majesticcasualofficial",
+          "displayName": "Majestic Casual",
+          "username": "majesticcasualofficial",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b824c9c967a7c0c03bfb207d7f7",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee854c9c967a7c0c03bfb207d7f7"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:314zqinww3rkjut5uxj5blu26ohi",
+          "id": "314zqinww3rkjut5uxj5blu26ohi",
+          "displayName": "Casual Jam Records",
+          "username": "314zqinww3rkjut5uxj5blu26ohi",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b827d2dd823629519716ada88c4",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee857d2dd823629519716ada88c4"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:29nha1t0q9rur624xxsux2ivp",
+          "id": "29nha1t0q9rur624xxsux2ivp",
+          "displayName": "Casual",
+          "username": "29nha1t0q9rur624xxsux2ivp",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b822e3cf2f4f87bbe6957c3ddb5",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee852e3cf2f4f87bbe6957c3ddb5"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:1272919090",
+          "id": "1272919090",
+          "displayName": "casuallydione",
+          "username": "1272919090",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82100c57ee22a36e4abc9ed72f",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85100c57ee22a36e4abc9ed72f"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:ehmlafqb0qv98klwu53r600qv",
+          "id": "ehmlafqb0qv98klwu53r600qv",
+          "displayName": "casuallycruel",
+          "username": "ehmlafqb0qv98klwu53r600qv",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82539ae0b860e318a3ba8be19b",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85539ae0b860e318a3ba8be19b"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:12143662558",
+          "id": "12143662558",
+          "displayName": "Casual Discos ABC",
+          "username": "12143662558",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82e80a549c2ee646229bf144fd",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85e80a549c2ee646229bf144fd"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:sarahjadler",
+          "id": "sarahjadler",
+          "displayName": "casuallyonline",
+          "username": "sarahjadler",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82f8d7b53c18ce81b7b351f199",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85f8d7b53c18ce81b7b351f199"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:browblissmua",
+          "id": "browblissmua",
+          "displayName": "casuallyalluring",
+          "username": "browblissmua",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b825460e77e092a3a73cdd36853",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee855460e77e092a3a73cdd36853"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:dc8yxs076ggn39g91x7esrnpa",
+          "id": "dc8yxs076ggn39g91x7esrnpa",
+          "displayName": "casualbucket",
+          "username": "dc8yxs076ggn39g91x7esrnpa",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8203357d1b3e50b795454ce648",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8503357d1b3e50b795454ce648"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:jxmo41kr1iswrhk40eavv5ke2",
+          "id": "jxmo41kr1iswrhk40eavv5ke2",
+          "displayName": "🏳️‍⚧️Casual Clownery🏳️‍⚧️",
+          "username": "jxmo41kr1iswrhk40eavv5ke2",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82a27bf45a263472cc442cd19b",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85a27bf45a263472cc442cd19b"
+          }
+        }
+      }
+    ]
   }
+}

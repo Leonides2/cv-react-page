@@ -1,16 +1,7 @@
-import { ChangeEvent, useContext, useState } from "react"
-import SpotifyContext from "../../Provider/SpotifyContext";
+import { ChangeEvent } from "react"
 
-const TextInput= ({placeholder} : {placeholder: string})=>{
 
-    const spotify = useContext(SpotifyContext);
-    const [value, setInputValue] = useState('');
-
-    const handleInputChange = (e: ChangeEvent<HTMLInputElement>) => {
-        const newValue = e.target.value;
-        setInputValue(newValue);
-        spotify.setQuery(newValue);
-    };
+const TextInput= ({placeholder, handleInputChange, value} : {placeholder: string, handleInputChange: (e: ChangeEvent<HTMLInputElement>)=>void, value: any})=>{
 
 
     return(
